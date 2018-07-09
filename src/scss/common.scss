@@ -1,0 +1,21 @@
+.sample1 {
+  display: flex;
+}
+
+.sample2 {
+  display: grid;
+}
+
+.foo {
+  flex: 1;
+}
+.bar {
+  flex: 1 1;
+}
+.foz {
+  flex: 1 1 0;
+}
+.baz {
+  flex: 1 1 0px;
+}
+

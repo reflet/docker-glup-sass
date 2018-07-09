@@ -1,0 +1,25 @@
+{
+  "description": "first SASS",
+  "repository": "https://github.com/reflet/docker-glup-sass.git",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions",
+    "last 2 Safari versions",
+    "last 2 ChromeAndroid versions",
+    "last 2 iOS versions",
+    "last 2 Edge versions",
+    "ie 11"
+  ],
+  "dependencies": {
+    "autoprefixer": "^8.6.5",
+    "csswring": "^6.0.3",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-watch": "^5.0.0",
+    "postcss-flexbugs-fixes": "^3.3.1"
+  }
+}
