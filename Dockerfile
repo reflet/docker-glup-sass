@@ -24,7 +24,6 @@ RUN mkdir scss css
 
 # install glup (package.json).
 ADD package.json package.json
-ADD package-lock.json package-lock.json
 RUN npm install gulp-cli -g
 RUN npm install
 

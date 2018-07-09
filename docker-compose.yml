@@ -11,5 +11,4 @@ services:
       - ./src/css:/src/css
       - ./gulpfile.js:/src/gulpfile.js
       - ./package.json:/src/package.json
-      - ./package-lock.json:/src/package-lock.json
 
